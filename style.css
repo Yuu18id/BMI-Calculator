@@ -1,0 +1,201 @@
+#body{
+    background-color: #EAEEFF;
+    border: 1px solid #EAEEFF;
+    height: 100vh;
+}
+
+#header18{
+    width: 100%;
+    background-color: #406AFF;
+    height: 50px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    display: flex;
+}
+
+#header18 p{
+    opacity: 0;
+}
+
+.nava{
+    margin: auto 22.5%;
+    display: flex;
+    color: white;
+}
+
+#gambar{
+    width: 80px;
+    margin: auto 15.7%;
+}
+
+#banner18{
+    width: 49%;
+    text-align: center;
+    height: 240px;
+    padding: 40px;
+    background-color: white;
+    margin: auto;
+    margin-top: 4%;
+    margin-bottom: 20px;
+    border-radius: 10px;
+}
+
+#form18{
+    width: 47%;
+    background-color: white;
+    margin: auto;
+    height: 450px;
+    border-radius: 10px;
+}
+
+#hasil18{
+    text-align: center;
+    width: 47%;
+    background-color: white;
+    margin: auto;
+    height: 450px;
+    border-radius: 10px;
+}
+
+#hasilpad {
+    margin-top: 12%;
+}
+
+#flex18{
+    width: 50.5%;
+    margin: auto;
+    display: flex;
+}
+
+#footer18{
+    width: 100%;
+    background-color: #406AFF;
+    height: 50px;
+    position: absolute;
+    bottom: -6.2%;
+    left: 0;
+}
+
+#footer18 p{
+    text-align: center;
+    color: white;
+    padding: 13px;
+}
+
+#banner18 h1{
+    text-align: center;
+    color:  #406AFF; 
+    margin-bottom: 3%;
+}
+
+#banner18 p{
+    padding-bottom: 10%;
+}
+
+#form18 h4{
+    text-align: center;
+    color:  #406AFF; 
+    margin-top: 50px;
+    margin-bottom: 40px;
+}
+
+#form18 p{
+    margin-top: 5%;
+    margin-left: 9.5%;
+    opacity: 0.6;
+}
+
+#hasil0 {
+    opacity: 0.6;
+    font-size: medium;
+}
+
+#form18 label{
+    margin-left: 9.5%;
+}
+
+input[type="text"]{
+    border: 1px solid black;
+    margin: auto;
+    display: block;
+    width: 81%;
+    border-radius: 5px;
+    padding: 1%;
+}
+
+input[type="submit"]{
+    border: none;
+    border-radius: 8px;
+    color: white;
+    background-color:#406AFF;
+    padding: 2%;
+    margin: auto;
+    display: block;
+    width: 81%;
+    cursor:pointer;
+}
+
+input[type="submit"]:hover{
+    background-color: rgb(118, 143, 253);
+}
+
+.navi{
+    list-style-type: none;
+    margin-right: 20%;
+    margin-left: 15%;
+}
+
+#about{
+    width: 49%;
+    text-align: center;
+    height: 300px;
+    padding: 40px;
+    background-color: white;
+    margin: auto;
+    margin-top: 4%;
+    border-radius: 10px;
+}
+
+#about h1{
+    color: #406AFF;
+    margin-bottom: 3%;
+    text-align: left;
+}
+
+#about p{
+    text-align: left;
+}
+
+#nama{
+    text-align: left;
+}
+
+#saran{
+    margin-top: 47%;
+}
+
+.list-group{
+    text-align: left;
+}
+
+#jejak{
+    width: 49%;
+    text-align: center;
+    height: 750px;
+    padding: 40px;
+    background-color: white;
+    margin: auto;
+    margin-top: 4%;
+    border-radius: 10px;
+}
+
+#jejak h1{
+    color: #406AFF;
+    margin-bottom: 3%;
+    text-align: left;
+}
+
+#jejak p{
+    text-align: left;
+}
